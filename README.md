@@ -178,7 +178,7 @@ A complete PDF report (`Business document - Insights and Findings.pdf`) is inclu
 
 ## 🙋‍♂️ Author
 
-**Addy Siddiqui** — [GitHub Profile](https://github.com/addysiddiqui7)
+**Adeel Siddique** — [GitHub Profile](https://github.com/addysiddiqui7)
 
 ---
 
